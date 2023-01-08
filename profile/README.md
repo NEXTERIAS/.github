@@ -1,1 +1,1 @@
-## We are NEXTERIAS
+![Banner](./banner.svg)
